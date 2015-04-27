@@ -5,14 +5,19 @@
 	overflow: hidden;
 	max-width: 1000px;
 }
+html {
+	min-height:100%;
+}
 body {
 	font-size: 100%;
 	margin: 0px;
 	padding: 0px;
 	font-family: "Helvetica-Neue", Arial, Helvetica, sans-serif;
-	background-image: url(images/bg2.png);
-	background-repeat: repeat-y;
-	background-size:cover;
+
+	  background: -webkit-linear-gradient(#eee, #999);
+	  background: -o-linear-gradient(#eee, #999);
+	  background: -moz-linear-gradient(#eee, #999);
+	  background: linear-gradient(#eee, #999);
 }
 h1 {
 	font-family: 'Rosario', Arial, sans-serif;
