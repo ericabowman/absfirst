@@ -102,8 +102,20 @@ a:active {
 	border-bottom: 4px solid white;
 	padding-top: 0px;
 	clear: both;
-
 }
+#copyright {
+	display:inline-block;
+	text-align:left;
+	width: 75%;
+}
+#footer-icons {
+	width: 20%;
+	display:inline-block;
+	color:#ccc;
+	text-align:right;
+	font-size:130%;
+}
+
 #visit #footer {
 	margin-left: 0;
 	padding-top: 10px;
