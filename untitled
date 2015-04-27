@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Abs First Pilates</title>
+<link rel="stylesheet" href="abs-styles.css">
+<link href='http://fonts.googleapis.com/css?family=Rosario:400,700' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+<div id="wrapper">
+  <div id="sidebar">
+        <div id="sidebar-column">
+        	<div id="stuff">
+        	<p><a href="index-abs.html"><img src="images/absfirst.svg" class="abs" alt="abs first pilates"></a></p>
+         <p class="nav"><a href="about.html">About Kiran</a></p>
+        <p class="nav"><a href="pilates.html">Pilates</a></p>
+       <p class="nav"><a href="massage.html">Massage</a></p>
+       <p class="nav"><a href="visit.html">Visit the Studio</a></p>
+       <p class="nav"><a href="testimonials.html">Testimonials/a></p>
+       <p class="nav"><a href="contact.html">Contact</a></p>
+       <p class="fb">Find Us on Facebook</p>
+  			</div>
+      <p id="socialMedia"><img src="images/fb_findus.svg" class="social" alt="facebook"></p>
+      <p><img src="images/newclient.png" class="cow" align="center" width="200" alt="cows"></p>
+    </div>
+  </div>
+  <div id="main-content">
+    <div id="content-column">
+    	 <p><img src="images/abs.JPG" alt="abs"></p>
+    	<h1>Testimonials</h1>
+    	<div class="maintext">
+        <p>Kiran is an adept and highly skilled practitioner. Combining an exhaustive knowledge of anatomy with an unusually broad bodywork skill set, she is able to accurately pinpoint problem areas and address them through a variety of techniques.</p>
+        <p>I have had chronic back pain since the age of twelve, due largely to an undiagnosed dislocated rib and overly flexible joints. Kiran was the first practitioner to correctly assess my situation, and through a combination of massage, Graston, and Pilates, she was able to significantly reduce my daily pain levels and put me on the road to recovery. I attribute this in large part to the strength and intuitiveness in her massage practice.</p>
+        <p>I can wholeheartedly recommend Kiran for anyone who suffers from physical pain. Besides being incredibly skilled, she is kind, sensitive, and understanding. She goes out of her way to make sure you feel comfortable and heard. If only we had more practitioners like her, I do think the world would be a better place.</p>
+        <p><em>Reviewed by Sabra Melamed, Oakland, Ca – 8/21/12</em></p>
+      </br>
+    </br>
+    <p>I highly recommend Kiran Haithcox as a pilates instructor. She’s an awesome instructor, always caring, supportive and challenging me just the right amount. She customizes each week’s workout based on how I feel emotionally and physically but also keeping my current goals in sight.</p>
+    <p>Before I started working out with Kiran I was suffering from chronic back pain. I could continue any exercise I tried for only a few weeks before my back pain would act up and I would be out of the gym for a month. When I scheduled my first appointment with her, my intent was to work with a pilates instructor for a couple of months to strengthen my core and then go back to my gym routine. That was 7 years ago. I’vebeen working with Kiran ever since and am not planning to stop anytime soon.
+
+
+
+
+
+
+      <br />
+    </div>
+  </div>
+  <div id="footer">
+  	<p>Copyright 2015 Abs First Pilates</p>
+</div>
+</body>
+</html>
